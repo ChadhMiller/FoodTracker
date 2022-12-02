@@ -1,0 +1,15 @@
+C:\Users\chadh\code\FoodTracker\FoodTracker\bin\Debug\net6.0\FoodTracker.exe
+C:\Users\chadh\code\FoodTracker\FoodTracker\bin\Debug\net6.0\FoodTracker.deps.json
+C:\Users\chadh\code\FoodTracker\FoodTracker\bin\Debug\net6.0\FoodTracker.runtimeconfig.json
+C:\Users\chadh\code\FoodTracker\FoodTracker\bin\Debug\net6.0\FoodTracker.dll
+C:\Users\chadh\code\FoodTracker\FoodTracker\bin\Debug\net6.0\FoodTracker.pdb
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\FoodTracker.csproj.AssemblyReference.cache
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\FoodTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\FoodTracker.AssemblyInfoInputs.cache
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\FoodTracker.AssemblyInfo.cs
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\FoodTracker.csproj.CoreCompileInputs.cache
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\FoodTracker.dll
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\refint\FoodTracker.dll
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\FoodTracker.pdb
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\FoodTracker.genruntimeconfig.cache
+C:\Users\chadh\code\FoodTracker\FoodTracker\obj\Debug\net6.0\ref\FoodTracker.dll
